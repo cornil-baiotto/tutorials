@@ -6,5 +6,5 @@ Observing notes to help prepare optical and near-IR spectroscopy of galaxies usi
 - [ALMA Data Reduction](casa_almadr_2026v2.pdf) \
 CASA tutorial for ALMA data processing, illustrated with mock ALMA data (2026).
 
-- [LENSTOOL Cheat Sheet](lenstool_cheatsheet_2026v0.pdf) \
+- [LENSTOOL Cheat Sheet](lenstool_cheatsheet_2026v1.pdf) \
 A short list of useful commands for new LENSTOOL users, covering general usage.
